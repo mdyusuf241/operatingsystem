@@ -1,2 +1,2 @@
-# operatingsystem
-Best Books & notes are present related to operating system.
+# operatingsystem 
+This repo is made only for knowledge purpose
