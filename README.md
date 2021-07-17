@@ -1,2 +1,2 @@
 # operatingsystem 
-This repo is made only for knowledge purpose
+This repo is made only for knowledge 
